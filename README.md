@@ -1,4 +1,4 @@
-# 🧮 Calculator App
+# 🔢 Calculator App
 
 A sleek and responsive calculator built with pure HTML, CSS, and JavaScript.
 
